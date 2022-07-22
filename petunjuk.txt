@@ -3,3 +3,5 @@ gunakan url repository github untuk nama module, agar bisa di download
 
 go get nama-module # untuk mendownload module
 untuk meng update module kita, cukup untuk membuat tag baru dan push ke repo
+untuk mengupdate dependency cukup ubah tag module di file go.mod, lalu jalankan perintah go get
+setiap update module sebisa mungkin harus mengubah versi tagnya, hal itu untuk menghindari caching di dependency yang membuat dependency tidak terupdate
