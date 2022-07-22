@@ -1,0 +1,1 @@
+untuk merilis module cukup menggunakan tag git, karna golang terintegrasi dengan baik dengan git
