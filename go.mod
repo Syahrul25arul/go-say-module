@@ -1,3 +1,3 @@
-module github.com/Syahrul25arul/go-say-module/v2
+module github.com/Syahrul25arul/go-say-module
 
 go 1.18
